@@ -12,7 +12,7 @@ El enfoque principal ha sido el análisis descriptivo, utilizando herramientas d
 
 - `README.md`: Descripción general del proyecto
 - `project.csv`: Datos brutos de ventas en formato CSV
-- `dashboard_ventas.xlsx`: Archivo Excel con el análisis y el dashboard final
+- `Dashboard Final.xlsx`: Archivo Excel con el análisis y el dashboard final
 
 ---
 
